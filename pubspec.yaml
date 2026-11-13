@@ -20,4 +20,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/home_illustration.svg
+    - assets/makeup_illustration.svg
+    - assets/makeup_hero.jpg
+    - assets/lipstick_product.jpg
+    - assets/blush_product.jpg

@@ -1,0 +1,25 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="620" rx="32" fill="#FFF1F5"/>
+<circle cx="1030" cy="105" r="92" fill="#F8D7E4"/>
+<circle cx="118" cy="532" r="125" fill="#E9DFFF"/>
+<path d="M0 486C160 419 310 418 472 486C640 556 794 581 956 502C1062 450 1132 452 1200 473V620H0V486Z" fill="#E7799D" opacity=".55"/>
+<path d="M0 548C190 485 340 517 496 564C650 610 825 595 1000 538C1082 511 1145 510 1200 526V620H0V548Z" fill="#D9BDEB" opacity=".7"/>
+<rect x="130" y="128" width="470" height="285" rx="30" fill="white"/>
+<text x="178" y="202" fill="#7B294B" font-family="Arial" font-size="27" font-weight="700">YOUR EVERYDAY</text>
+<text x="178" y="246" fill="#7B294B" font-family="Arial" font-size="42" font-weight="800">GLOW KIT</text>
+<rect x="178" y="284" width="190" height="13" rx="6" fill="#EBC6D5"/>
+<rect x="178" y="311" width="245" height="13" rx="6" fill="#F4DDE6"/>
+<rect x="178" y="351" width="126" height="40" rx="20" fill="#7B294B"/>
+<circle cx="532" cy="357" r="28" fill="#FFF1F5" stroke="#E7799D" stroke-width="5"/>
+<path d="M520 357L529 366L545 347" stroke="#E7799D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="830" cy="393" rx="145" ry="28" fill="#C687A4" opacity=".35"/>
+<rect x="728" y="207" width="194" height="192" rx="28" fill="#F2B6C8"/>
+<rect x="754" y="232" width="142" height="142" rx="20" fill="#FFF1F5"/>
+<circle cx="825" cy="303" r="45" fill="#E7799D"/>
+<circle cx="825" cy="303" r="24" fill="#F6AFC2"/>
+<path d="M760 198C760 177 777 160 798 160H852C873 160 890 177 890 198V225H760V198Z" fill="#7B294B"/>
+<rect x="986" y="251" width="74" height="144" rx="20" fill="#E7799D"/>
+<rect x="1001" y="213" width="44" height="54" rx="13" fill="#7B294B"/>
+<path d="M1000 236H1046" stroke="#F8D7E4" stroke-width="6"/>
+<path d="M1080 142L1092 174L1125 186L1092 198L1080 230L1068 198L1035 186L1068 174L1080 142Z" fill="#E7799D"/>
+</svg>
